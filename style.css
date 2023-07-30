@@ -1,0 +1,81 @@
+body{
+    background: url('Images/banner.jpg') no-repeat center right;
+    background-size: cover;
+    color: white;
+}
+#pagina{
+    max-width: 1200px;
+    margin: auto;
+    border-left:2px solid white ;
+    border-right: 2px solid white;
+    border-radius: 10px;
+}
+img{
+    width:100%;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-style: oblique;
+    padding-top: 150px;
+}
+h2{
+    text-align: center;
+    font-style: oblique; 
+    font-weight: 100;
+}
+#menu{
+    width: auto;
+    padding: 40px;
+    text-align: right;  
+}
+#menu a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: 500;
+    border-radius: 10px;
+    border: 3px solid white;
+    color: white;
+    margin: 5px;
+}
+#menu a:hover{
+    border: 3px solid black;
+    color: black; 
+}
+#middle{
+    width: auto;
+    height: 800px;
+    display: flex;
+    padding:100px;}
+
+.articol{
+    flex: 40%;
+    padding: 30px;
+    font-size: 20px;
+    font-style: oblique;
+}
+.articol a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: 500;
+    border-radius: 10px;
+    border: 3px solid white;
+    color: white;
+   
+}
+.articol a:hover{
+    border: 3px solid black;
+    color: black; }
+#banda{
+    width:auto;
+    height:50px;
+    text-align: center;
+    color: white;
+    background:black ;
+    opacity: 50%;
+    line-height: 50px;;
+}
