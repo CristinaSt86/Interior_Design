@@ -12,31 +12,26 @@ body {
     border-right: 2px solid white;
     border-radius: 10px;
 }
-
-img {
-    width: 100%;
+img{
+    width:100%;
 }
-
-h1 {
+h1{
     text-align: center;
     font-size: 50px;
     font-style: oblique;
     padding-top: 150px;
 }
-
-h2 {
+h2{
     text-align: center;
     font-style: oblique;
     font-weight: 100;
 }
-
-#menu {
+#menu{
     width: auto;
     padding: 40px;
     text-align: right;
 }
-
-#menu a {
+#menu a{
     text-decoration: none;
     padding: 10px;
     font-size: 25px;
